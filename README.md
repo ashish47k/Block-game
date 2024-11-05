@@ -42,7 +42,14 @@ In this game, the player controls a blue block that can move left and right alon
 4. **Track Your Lives**: The player starts with 3 lives. Each collision with an obstacle costs one life. The game ends when all lives are lost.
 5. **Earn Points**: Points are awarded for each obstacle avoided. Higher difficulty levels result in faster obstacles and greater scores.
 6. **Restart or Quit**: Use the Restart button to replay with the same difficulty level, or Quit to exit the game.
-   
+
+## Game
+**Start**
+![Alt text](img/start.png)
+
+**End**
+![Alt text](img/end.png)
+
 ## Project Structure
 
 ```plaintext
